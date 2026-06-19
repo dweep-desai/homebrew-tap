@@ -1,6 +1,6 @@
 cask "facegate" do
   version "1.0.0"
-  sha256 "3f0c6366203b5b435311579cb9a721d14077bc4d5105f6828f9235ca7b4e0549"
+  sha256 "cc0839cb58f989dfc63204bf6a0fefc4b64a1ac3ad4209931f9bbb9f331ec9fe"
 
   url "https://github.com/dweep-desai/FaceGate-Mac/releases/download/v#{version}/FaceGate-#{version}.dmg"
   name "FaceGate"
