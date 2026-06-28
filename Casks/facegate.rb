@@ -1,8 +1,8 @@
 cask "facegate" do
-  version "1.1.1"
-  sha256 "a97f6a84fedbb1f51407e7f41ed5d9defc8f30e5905b579cb52f505859072822"
+  version "1.2.0"
+  sha256 "ba9c6f2744d4499ad903bd44c336b3f3a323e4affd60f3f4a6624dccb1f4473f"
 
-  url "https://github.com/dweep-desai/FaceGate-Mac/releases/download/v#{version}/FaceGate-#{version}.dmg"
+  url "https://github.com/dweep-desai/FaceGate-Mac/releases/download/v#{version}/FaceGate-v#{version}.dmg"
   name "FaceGate"
   desc "Application-level locking with on-device face recognition for macOS"
   homepage "https://github.com/dweep-desai/FaceGate-Mac"
