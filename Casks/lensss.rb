@@ -1,6 +1,6 @@
 cask "lensss" do
   version "1.0.0"
-  sha256 "8b36364db776be41f5b7945410a82446a82293d3f35de9a0078e49d96f89023a"
+  sha256 "81cec5428b77031a5f5e3678cfc0b1845bd2d19dd0db78d60b6e3083a7012b97"
 
   url "https://github.com/dweep-desai/lensss/releases/download/v#{version}/lensss-#{version}.dmg"
   name "Lensss"
